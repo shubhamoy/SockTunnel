@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="down-arrow.svg">resources/down-arrow.svg</file>
+        <file alias="logo.svg">resources/logo.svg</file>
+        <file alias="icon.png">resources/icon.png</file>
+        <file alias="icon.icns">resources/icon.icns</file>
+        <file alias="style.qss">resources/style.qss</file>
+    </qresource>
+</RCC>
